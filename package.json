@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "emoji-mart-vue-fast": "^15.0.5",
+    "vue-emoji-picker": "^1.0.3"
+  }
+}
